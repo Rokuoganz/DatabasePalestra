@@ -14,6 +14,13 @@ Questo progetto è stato realizzato per il corso di Basi di Dati della facoltà 
 - Apprendere le tecniche di gestione e strutturazione di un database.
 
 ## Strumenti e Tecnologie
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" width="100"/>
+</div>
+
 - SQL: linguaggio in cui sono scritte le query del DB.
 - MySQL: database utilizzato.
 - Java: il linguaggio tramite il quale è stata strutturata l'interfaccia.
