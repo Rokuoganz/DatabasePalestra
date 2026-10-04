@@ -27,7 +27,7 @@ Questo progetto è stato realizzato per il corso di Basi di Dati della facoltà 
 - Eclipse: IDE utilizzato per la programmazione in Java.
 
 ## Struttura del Progetto
-- [DocumentazioneDB/PalestraBD4.0.pdf](DocumentazioneDB/PalestraBD.pdf): Documentazione del progetto
+- [DocumentazioneDB/PalestraBD.pdf](DocumentazioneDB/PalestraBD.pdf): Documentazione del progetto
 - [DatabasePalestra/Palestra1/](DatabasePalestra/Palestra1/): Cartella contenente i codici JAVA.
 - [DatabasePalestra/ScriptsDBPalestra/](DatabasePalestra/ScriptsDBPalestra/): Directory contenente i file SQL.
 
